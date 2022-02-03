@@ -10,11 +10,7 @@
 
 3. Create a new Branch:
 
-
-   ```git branch  -YourBranchName-```
-   
-   
-   ```git checkout  -YourBranchName-```
+   ``` git checkout -b  -YourBranchName-```
 
 4. Make your contributions.
 
